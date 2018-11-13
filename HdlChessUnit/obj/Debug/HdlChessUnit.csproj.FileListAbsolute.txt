@@ -1,0 +1,5 @@
+D:\aserfend\workSpace\repos\projects\PlaychessHandle\Project.1802.HdlChessUnit\HdlChessUnit\bin\Debug\HdlChessUnit.exe
+D:\aserfend\workSpace\repos\projects\PlaychessHandle\Project.1802.HdlChessUnit\HdlChessUnit\bin\Debug\HdlChessUnit.pdb
+D:\aserfend\workSpace\repos\projects\PlaychessHandle\Project.1802.HdlChessUnit\HdlChessUnit\obj\Debug\HdlChessUnit.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\PlaychessHandle\Project.1802.HdlChessUnit\HdlChessUnit\obj\Debug\HdlChessUnit.exe
+D:\aserfend\workSpace\repos\projects\PlaychessHandle\Project.1802.HdlChessUnit\HdlChessUnit\obj\Debug\HdlChessUnit.pdb

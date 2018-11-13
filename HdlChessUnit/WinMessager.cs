@@ -28,6 +28,12 @@ namespace HdlChessUnit
 		{
 			this.Target = target;
 		}
+		public WinMessager(string className,string windowsName)
+		{
+			var tar = FindWindowEx(IntPtr.Zero, IntPtr.Zero, className, windowsName);
+			Debug.Assert(tar != null);
+			
+		}
 		public void SetText( string tmp)
 		{
 			//SndMsg(WM_SETTEXT,0,tmp);
